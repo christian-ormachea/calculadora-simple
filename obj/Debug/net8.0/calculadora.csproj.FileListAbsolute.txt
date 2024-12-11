@@ -1,0 +1,14 @@
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/obj/Debug/net8.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/obj/Debug/net8.0/calculadora.AssemblyInfoInputs.cache
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/obj/Debug/net8.0/calculadora.AssemblyInfo.cs
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/obj/Debug/net8.0/calculadora.csproj.CoreCompileInputs.cache
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/bin/Debug/net8.0/calculadora
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/bin/Debug/net8.0/calculadora.deps.json
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/bin/Debug/net8.0/calculadora.runtimeconfig.json
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/bin/Debug/net8.0/calculadora.dll
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/bin/Debug/net8.0/calculadora.pdb
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/obj/Debug/net8.0/calculadora.dll
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/obj/Debug/net8.0/refint/calculadora.dll
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/obj/Debug/net8.0/calculadora.pdb
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/obj/Debug/net8.0/calculadora.genruntimeconfig.cache
+/home/tiani/Documentos/proyectos/proyectosdotnet/proyectos-aprender/calculadora/obj/Debug/net8.0/ref/calculadora.dll
